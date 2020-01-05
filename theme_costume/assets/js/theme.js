@@ -173,10 +173,11 @@
         var prevBtn = $('.banner-carousel-btn .right-btn');
 
         myCarousel.owlCarousel({
-            loop: true,
+            singleItem: true,
+            loop: false,
             items: 1,
             margin: 0,
-            dots: true,
+            dots: false,
             nav: false,
             animateOut: 'fadeOut',
             animateIn: 'fadeIn',
