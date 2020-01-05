@@ -21,31 +21,8 @@
                         </div><!-- /.container -->
                     </div><!-- /.banner-one__slide -->
                 </div><!-- /.item -->
-                <div class="item">
-                    <div class="banner-one__slide banner-one__slide-two" style="background-image: url(<?php echo $this->common->theme_custome(); ?>/assets/images/slider/slider-5-2.jpg);">
-                        <div class="container">
-                            <img src="<?php echo $this->common->theme_custome(); ?>/assets/images\slider\slider-p-5-2.png" class="banner-one__person banner-one__person-ver-center" alt="Awesome Image">
-                            <div class="row">
-                                <div class="col-xl-7 col-lg-12 text-left">
-                                    <div class="banner-one__content">
-                                        <h3 class="banner-one__title banner-one__light-color"><span class="banner-one__title-highlight-bg">A dentist chain who Care</span>
-                                            <br> your teeth for long time</h3>
-                                        <p class="banner-one__text banner-one__light-color">Our goal for every patient
-                                            is to create a beautiful smile that can <br> be enjoyed for a lifetime.</p>
-                                        <div class="banner-one__btn-block">
-                                            <a href="#" class="thm-btn banner-one__btn">Book an Appointment</a>
-                                        </div><!-- /.btn-block -->
-                                    </div><!-- /.banner-one__content -->
-                                </div><!-- /.col-xl-1 col-lg-122 -->
-                            </div><!-- /.row -->
-                        </div><!-- /.container -->
-                    </div><!-- /.banner-one__slide -->
-                </div><!-- /.item -->
             </section><!-- /.banner-one -->
-            <div class="carousel-btn-block banner-carousel-btn">
-                <span class="carousel-btn left-btn"><i class="fa fa-angle-left"></i></span>
-                <span class="carousel-btn right-btn"><i class="fa fa-angle-right"></i></span>
-            </div><!-- /.carousel-btn-block banner-carousel-btn -->
+            
         </div><!-- /.banner-wrapper -->
         <section class="cta-four">
             <div class="container">
@@ -398,91 +375,6 @@
                 </div><!-- /.row -->
             </div><!-- /.container -->
         </section><!-- /.gallery-one -->
-        <section class="team-one team-one__home-five">
-            <div class="container">
-                <div class="block-title text-left">
-                    <h2 class="block-title__title">Meet Our Doctors</h2><!-- /.block-title__title -->
-                    <p class="block-title__text">Welcome to Dentallox Team! Our team is dedicated to making every
-                        patient feel welcome, comfortable, and valued – because in our office you are! One of our
-                        favorite things to do is help those patients who suffer from dental fear or anxiety. </p>
-                    <!-- /.block-title__text -->
-                </div><!-- /.block-title -->
-                <div class="row">
-                    <div class="col-lg-3 col-md-6 col-sm-12">
-                        <div class="team-one__single">
-                            <div class="team-one__image">
-                                <img src="<?php echo $this->common->theme_custome(); ?>/assets/images\team\team-1-1.jpg" alt="Awesome Image">
-                                <div class="team-one__hover">
-                                    <h3 class="team-one__title"><a href="team-details.html">Inge Milfeld</a></h3>
-                                    <!-- /.team-one__title -->
-                                    <p class="team-one__designation">Dental Surgeon</p><!-- /.team-one__designation -->
-                                    <a href="team-details.html" class="team-one__link">Know More</a>
-                                </div><!-- /.team-one__hover -->
-                            </div><!-- /.team-one__image -->
-                            <div class="team-one__content">
-                                <h3 class="team-one__title"><a href="team-details.html">Inge Milfeld</a></h3>
-                                <!-- /.team-one__title -->
-                                <p class="team-one__designation">Dental Surgeon</p><!-- /.team-one__designation -->
-                            </div><!-- /.team-one__content -->
-                        </div><!-- /.team-one__single -->
-                    </div><!-- /.col-lg-3 -->
-                    <div class="col-lg-3 col-md-6 col-sm-12">
-                        <div class="team-one__single">
-                            <div class="team-one__image">
-                                <img src="<?php echo $this->common->theme_custome(); ?>/assets/images\team\team-1-2.jpg" alt="Awesome Image">
-                                <div class="team-one__hover">
-                                    <h3 class="team-one__title"><a href="team-details.html">Herman Pegelow</a></h3>
-                                    <!-- /.team-one__title -->
-                                    <p class="team-one__designation">Dental Surgeon</p><!-- /.team-one__designation -->
-                                    <a href="team-details.html" class="team-one__link">Know More</a>
-                                </div><!-- /.team-one__hover -->
-                            </div><!-- /.team-one__image -->
-                            <div class="team-one__content">
-                                <h3 class="team-one__title"><a href="team-details.html">Herman Pegelow</a></h3>
-                                <!-- /.team-one__title -->
-                                <p class="team-one__designation">Dental Surgeon</p><!-- /.team-one__designation -->
-                            </div><!-- /.team-one__content -->
-                        </div><!-- /.team-one__single -->
-                    </div><!-- /.col-lg-3 -->
-                    <div class="col-lg-3 col-md-6 col-sm-12">
-                        <div class="team-one__single">
-                            <div class="team-one__image">
-                                <img src="<?php echo $this->common->theme_custome(); ?>/assets/images\team\team-1-3.jpg" alt="Awesome Image">
-                                <div class="team-one__hover">
-                                    <h3 class="team-one__title"><a href="team-details.html">Sherrie Onks</a></h3>
-                                    <!-- /.team-one__title -->
-                                    <p class="team-one__designation">Dental Surgeon</p><!-- /.team-one__designation -->
-                                    <a href="team-details.html" class="team-one__link">Know More</a>
-                                </div><!-- /.team-one__hover -->
-                            </div><!-- /.team-one__image -->
-                            <div class="team-one__content">
-                                <h3 class="team-one__title"><a href="team-details.html">Sherrie Onks</a></h3>
-                                <!-- /.team-one__title -->
-                                <p class="team-one__designation">Dental Surgeon</p><!-- /.team-one__designation -->
-                            </div><!-- /.team-one__content -->
-                        </div><!-- /.team-one__single -->
-                    </div><!-- /.col-lg-3 -->
-                    <div class="col-lg-3 col-md-6 col-sm-12">
-                        <div class="team-one__single">
-                            <div class="team-one__image">
-                                <img src="<?php echo $this->common->theme_custome(); ?>/assets/images\team\team-1-4.jpg" alt="Awesome Image">
-                                <div class="team-one__hover">
-                                    <h3 class="team-one__title"><a href="team-details.html">Dolores Broussard</a></h3>
-                                    <!-- /.team-one__title -->
-                                    <p class="team-one__designation">Dental Surgeon</p><!-- /.team-one__designation -->
-                                    <a href="team-details.html" class="team-one__link">Know More</a>
-                                </div><!-- /.team-one__hover -->
-                            </div><!-- /.team-one__image -->
-                            <div class="team-one__content">
-                                <h3 class="team-one__title"><a href="team-details.html">Dolores Broussard</a></h3>
-                                <!-- /.team-one__title -->
-                                <p class="team-one__designation">Dental Surgeon</p><!-- /.team-one__designation -->
-                            </div><!-- /.team-one__content -->
-                        </div><!-- /.team-one__single -->
-                    </div><!-- /.col-lg-3 -->
-                </div><!-- /.row -->
-            </div><!-- /.container -->
-        </section><!-- /.team-one -->
         <section class="appointment-one">
             <div class="container">
                 <div class="inner-container">
